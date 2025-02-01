@@ -5,13 +5,13 @@
 - **Environmental Monitoring**:  
   - Temperature and Humidity Sensor (**DHT11**) to track climatic conditions.  
 - **Soil Health Monitoring**:  
-  - **Soil Moisture Sensor**: Measures the soil's water content, integrated with a solenoid push-pull motor for precise soil interaction.  
+  - **Soil Moisture Sensor**: Measures the soil's water content, integrated with a solenoid push-pull motor for precise soil interaction and a good penetration into the soil for precise measurement.  
 - **Real-Time Updates**:  
   - A **GSM Module** sends SMS alerts with details of temperature, humidity, and soil moisture content.  
 - **Power Source**: Powered by a rechargeable 24V Lithium-Ion Power Supply for extended operation.  
 
 ## _COMPONENTS USED_  
-1. **Microcontroller**: (Specify if Arduino, Raspberry Pi, or other)  
+1. **Microcontroller**: Arduino UNO  
 2. **DHT11 Sensor**: For temperature and humidity measurements.  
 3. **Soil Moisture Sensor**: To measure soil water levels.  
 4. **Solenoid Push-Pull Motor**: For deploying the soil moisture sensor.  
